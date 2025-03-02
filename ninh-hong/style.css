@@ -533,7 +533,7 @@
 .slider {
     width: 100%;
     max-width: 800px;
-    height: 550px;
+    height: 600px;
     position: relative;
     overflow: hidden; /* <===  */
     border-radius: 15px;
@@ -674,6 +674,8 @@
     text-align: right;
     font-family: '1FTV Roashe';
     padding-right: 20px;
+    letter-spacing: 1px;
+    font-size: .8em;
 }
 
 .box-image{
